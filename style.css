@@ -1,0 +1,41 @@
+header {
+  background-color: #111a3d;
+  border: 2px solid #89a8ff;
+}
+body {
+  background-color: #111a3d;
+  font-size: 18px;
+  color: #e6ecff;
+  text-align: center;
+}
+main {
+  background-color: #0f1633;
+}
+footer {
+  background-color: #111a3d;
+  border: 2px solid #89a8ff;
+}
+h1 {
+  font-size: 42px;
+  color: #FFFFFF
+}
+
+h2 { 
+  font-size: 28px;
+  color: #ffd36e
+}
+
+p {
+  font-size: 18px;
+  color: #FFFFFF
+}
+
+a {
+  font-size: 18px;
+  color: #7dd3fc
+}
+
+img {
+ border: 3px solid #89a8ff
+
+}
